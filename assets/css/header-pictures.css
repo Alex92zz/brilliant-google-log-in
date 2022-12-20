@@ -1,0 +1,26 @@
+@media only screen and (max-width: 449px) {
+    #red-screen-laptop {
+        background-image: url(../images/home-page/header-slider/mobile-size/red-screen-laptop.jpg);
+    }
+
+    #bike-photo {
+        background-image: url(../images/home-page/header-slider/mobile-size/bike-photo.jpg);
+    }
+
+    #white-laptop {
+        background-image: url(../images/home-page/header-slider/mobile-size/white-laptop.jpg);
+    }
+
+}
+
+@media only screen and (min-width: 450px) {
+    #bike-photo {
+        background-image: url(../images/home-page/header-slider/bike-photo.jpg);
+    }
+    #white-laptop {
+        background-image: url(../images/home-page/header-slider/white-laptop.jpg);
+    }
+    #red-screen-laptop {
+        background-image: url(../images/home-page/header-slider/red-screen-laptop.jpg);
+    }
+}

@@ -1,0 +1,8 @@
+
+.lazy-background {
+  background-image: url(../images/global-images/footer/placeholder.jpg); /* Placeholder image */
+}
+
+.lazy-background.visible {
+  background-image: url(../images/global-images/footer/laptop-footer.jpg);
+}
